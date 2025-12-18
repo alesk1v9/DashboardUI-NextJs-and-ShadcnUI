@@ -15,7 +15,9 @@ A simple and responsive dashboard UI built to practice **Next.js**, **shadcn/ui*
 - shadcn/ui
 - Tailwind CSS
 
+## Screenshots
 
+![Dashboard UI](./public/screenshot.png)
 
 ## Getting Started
 
@@ -30,6 +32,4 @@ cd DashboardUI-NextJs-and-ShadcnUI
 npm install
 
 npm run dev
-## Screenshots
 
-![Dashboard UI](./public/screenshot.png)
